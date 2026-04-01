@@ -2,14 +2,14 @@
   "response": [
     {
       "maintainer": "flashedfiber",
-      "oem": "OnePlus",
+      "oem": "oneplus",
       "device": "lemonadep",
-      "filename": "",
-      "download": "",
-      "timestamp": ,
-      "md5": "",
-      "sha256": "",
-      "size": ,
+      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.9-GMS-2026033119.zip",
+      "download": "https://files.dataheaven.space/s/Jj6aNkx7EJf8nsE/download",
+      "timestamp": 1775013797,
+      "md5": "465d32e5e26b6a6881dc3b97cae2584a",
+      "sha256": "4157a5eea11773770893ef10e7cf47474d19d461e54b051f265eb6b434b73e2b",
+      "size": 2667674673,
       "version": "",
       "buildtype": "",
       "forum": "",
@@ -23,6 +23,6 @@
       "dt": "",
       "common-dt": "",
       "kernel": ""
-    }
+    }     
   ]
 }
