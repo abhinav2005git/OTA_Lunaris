@@ -1,1 +1,30 @@
-CHANGELOGS
+Changelog
+=========
+09/04/2026
+---------------
+- Allow choose custom color/gradient for clock chip
+- Media chip popup follow qs seekbar style
+- Vol. percentage in redesigned style
+- Add basic sleep mode
+- Allow switch to legacy statusbar icon order
+- Implement proper UI for per-app spoofing
+- Add battery indicator, glow effect, music indicator in notch ring
+- Allow changes launcher hotseat QSB style
+- Introduce appdrawer app & searchbar styles
+- Add option to clear home screen in settings
+- Add idle manager (like greenify)
+- Allow set custom color in app drawer bg
+- Add method to block PairIP license check activity
+- Add torch toggle for double tap power gesture
+- Implement new dynamic VoLTE/VoWiFi and VoNR status bar icons
+- Allow disable flash SMS messages
+- Add classic a11 like QS panel style
+- Add 24 new clock style and many improvements
+- Lockscreen widget improvements
+- Add lockscreen now playing popup dialog
+- Enable bubble notification app
+- Allow disable qs media player
+- Introduce navbar pill auto-hide (for launcher3 only)
+- Improve app scrolling
+- Improve lmo freeform app scrolling
+- Many UI related bugfixes
