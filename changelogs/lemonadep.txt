@@ -1,5 +1,18 @@
 Changelog
 =========
+13/04/2026
+Device changelogs : Thanks to SuperJammy for his device trees and kernel.
+- Removed useless cpu freq in powertools .
+- Hey google fixed .
+- Switch to sony dolby and removed some sound profiles which oplus doens't use .
+- Alertslider settings moved to keyhandler(settings > singularity > buttons > additional buttons) along with added a few customisation by me .
+- Strong key default ( may vary)
+- Switch to AIDL sensor Hal.
+- Fixed stutters when BLUR enabled.
+
+Source changelogs :
+- Same as previous build.
+
 09/04/2026
 ---------------
 - Allow choose custom color/gradient for clock chip
