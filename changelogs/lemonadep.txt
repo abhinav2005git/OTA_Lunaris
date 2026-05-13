@@ -1,5 +1,12 @@
 Changelog
 
+13/05/2026
+
+Source changelogs
+- https://t.me/lunaris_dailyUP/868
+
+=========
+
 08/05/2026
 
 Device changelogs : Thanks to SuperJammy for his device trees and kernel.
